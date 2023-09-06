@@ -1,2 +1,2 @@
 # Exercicios_Python
-Exercícios de python da aula de programação estruturada
+Exercícios de python na aula de programação estruturada
